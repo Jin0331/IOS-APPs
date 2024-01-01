@@ -1,3 +1,4 @@
 # IOS-APPs
 
-이냥 저냥 공부하면서 만드는 App들....
+**Udemy - "iOS & Swift - The Complete iOS App Development Bootcamp" 공부를 위한 Repo** 
+
